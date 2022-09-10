@@ -1,0 +1,17 @@
+---
+# distro package setup and installation
+- name: Update repositories cache
+  ansible.builtin.apt:
+    update_cache: yes
+- name: Update all packages to their latest version
+  ansible.builtin.apt:
+    name: "*"
+    state: latest    
+- name: install packages
+  ansible.builtin.apt:
+    name:
+#      - xfce4
+      - xterm
+#      - tightvncserver
+      - d1x-rebirth
+      - d2x-rebirth

@@ -1,0 +1,9 @@
+---
+- name: copy misc
+  copy:
+    src: "{{ src }}/opt/redarmorboys/misc/"
+    dest: /opt/redarmorboys/misc/
+- name: copy descent assets
+  copy:
+    src: "{{ src }}/home/redarmorboy/.d1x-rebirth/"
+    dest: home/redarmorboy/.d1x-rebirth/
