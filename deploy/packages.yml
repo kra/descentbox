@@ -10,8 +10,9 @@
 - name: install packages
   ansible.builtin.apt:
     name:
-#      - xfce4
+      - tigervnc-standalone-server
+      - tigervnc-viewer
+      - xfce4
       - xterm
-#      - tightvncserver
       - d1x-rebirth
       - d2x-rebirth
