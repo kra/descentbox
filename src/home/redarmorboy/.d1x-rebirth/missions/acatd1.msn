@@ -1,0 +1,20 @@
+name = Azure Catacombs
+type = normal
+num_levels = 1
+acatd1.rdl
+editor = DLE-XP
+date = 31 jan 2012
+revision = 1.0
+author = darkflamewolf
+email = darkflamewolf@yahoo.com
+custom_textures = no
+custom_robots = no
+custom_music = no
+normal = no
+anarchy = yes
+robo_anarchy = yes
+coop = no
+capture_flag = no
+hoard = no
+multi_author = no
+want_feedback = yes
