@@ -1,4 +1,1 @@
-name = ATHENA
-type = normal
-num_levels = 1
-ATHENA.rdl
+../descent_rangers/ATHENA.MSN

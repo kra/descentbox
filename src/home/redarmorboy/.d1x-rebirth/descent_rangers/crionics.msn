@@ -1,0 +1,22 @@
+name = Crionics
+type = normal
+num_levels = 1
+crionic1.rdl
+editor = DLE v1.11.62
+date = April 23, 2013
+author = NaphthaTurisas
+custom_textures = yes
+custom_robots = no
+custom_music = yes
+normal = no
+anarchy = yes
+robo_anarchy = no
+coop = no
+capture_flag = no
+hoard = no
+multi_author = no
+want_feedback = yes
+;Level built by NaphthaTurisas
+;Custom textures mostly by Blarget, with
+;a few contributions by NaphthaTurisas
+;Music is "Running from Evil" by Bobby Prince

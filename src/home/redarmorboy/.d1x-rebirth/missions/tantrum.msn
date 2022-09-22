@@ -1,18 +1,1 @@
-name = tantrum
-type = normal
-num_levels = 1
-tantrum.rdl
-editor = DLE-XP
-date = 19 mar 2012
-revision = 1.0
-custom_textures = no
-custom_robots = no
-custom_music = no
-normal = no
-anarchy = no
-robo_anarchy = no
-coop = no
-capture_flag = no
-hoard = no
-multi_author = no
-want_feedback = no
+../descent_rangers/tantrum.msn

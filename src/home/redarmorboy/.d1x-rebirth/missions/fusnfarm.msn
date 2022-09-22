@@ -1,4 +1,1 @@
-name = Kiln's Fusion Farm
-type = normal
-num_levels = 1
-fusnfarm.rdl
+../descent_rangers/fusnfarm.msn

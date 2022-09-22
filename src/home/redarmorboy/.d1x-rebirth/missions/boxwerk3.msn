@@ -1,17 +1,1 @@
-name = Boxwerk ]|[
-type = normal
-num_levels = 1
-boxwerk3.rdl
-editor = DLE-XP
-date = 27 jul 2012
-custom_textures = no
-custom_robots = no
-custom_music = no
-normal = no
-anarchy = no
-robo_anarchy = no
-coop = no
-capture_flag = no
-hoard = no
-multi_author = no
-want_feedback = no
+../descent_rangers/boxwerk3.msn

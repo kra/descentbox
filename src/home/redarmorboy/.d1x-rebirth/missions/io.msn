@@ -1,4 +1,1 @@
-name = Io
-type = normal
-num_levels = 1
-io.rdl
+../descent_rangers/io.msn

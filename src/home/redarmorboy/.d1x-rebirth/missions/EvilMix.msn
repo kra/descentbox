@@ -1,6 +1,1 @@
-name = EvilMix
-type = normal
-num_levels = 1
-EvilMix.rdl
-author = 90% Spaz, 10% RedOmen
-description = Athena meets NYSA in an unholy mix
+../descent_rangers/EvilMix.msn

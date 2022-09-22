@@ -1,18 +1,1 @@
-name = ancientofdays
-type = normal
-num_levels = 1
-anciento.rdl
-editor = DLE-XP
-date = 19 aug 2011
-revision = 1.0
-custom_textures = no
-custom_robots = no
-custom_music = no
-normal = no
-anarchy = yes
-robo_anarchy = no
-coop = no
-capture_flag = no
-hoard = no
-multi_author = no
-want_feedback = no
+../descent_rangers/ancient.msn

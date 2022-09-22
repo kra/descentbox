@@ -1,17 +1,1 @@
-name = Sound of White Noise
-type = normal
-num_levels = 1
-whtnoise.rdl
-editor = DLE
-date = 15 may 2013
-custom_textures = no
-custom_robots = no
-custom_music = no
-normal = no
-anarchy = no
-robo_anarchy = no
-coop = no
-capture_flag = no
-hoard = no
-multi_author = no
-want_feedback = no
+../descent_rangers/whtnoise.msn

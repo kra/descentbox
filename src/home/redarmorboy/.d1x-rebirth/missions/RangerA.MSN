@@ -1,4 +1,1 @@
-name = Ranger Arena
-type = normal
-num_levels = 1
-rangera.rdl
+../descent_rangers/RangerA.MSN

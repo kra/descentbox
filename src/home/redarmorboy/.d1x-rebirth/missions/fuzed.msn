@@ -1,4 +1,1 @@
-name = Fuzed
-type = normal
-num_levels = 1
-fuzed.rdl
+../descent_rangers/fuzed.msn

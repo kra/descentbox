@@ -1,4 +1,1 @@
-name = Neptune
-type = normal
-num_levels = 1
-neptune.rdl
+../descent_rangers/Neptune.msn

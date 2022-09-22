@@ -1,0 +1,17 @@
+name = Colorbox
+type = normal
+num_levels = 1
+colorbox.rdl
+editor = DLE-XP
+date = 4 sep 2013
+custom_textures = no
+custom_robots = no
+custom_music = no
+normal = no
+anarchy = no
+robo_anarchy = no
+coop = no
+capture_flag = no
+hoard = no
+multi_author = no
+want_feedback = no
